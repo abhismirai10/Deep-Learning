@@ -1,2 +1,2 @@
-# DL
+# Deep Learning
 Basic DL methods 
